@@ -1,7 +1,7 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.wlcm = false
@@ -9,47 +9,46 @@ global.autokickmorroco = false //auto kick 212 (true to on, false to off)
 global.antispam = false//auto kick spammer (true to on, false to off)
 
 //===============SETTING MENU==================\\
-global.channel = '120363416755002041@newsletter' // GANTI DENGAN ID CHMU KALO ADA
-global.channeln = 'HYDRO COMMUNITY 📢📦' // GANTI DENGAN NAMA CH MU
+global.channel = '120363403040650621@newsletter' // GANTI DENGAN ID CHMU KALO ADA
+global.channeln = 'DAFZMODZ HOSTING NEEDS⚡' // GANTI DENGAN NAMA CH MU
 //===============SETTING MENU==================\\
-global.thumbnail = 'https://raw.githubusercontent.com/AhmadAkbarID/media/refs/heads/main/menu.jpg'
-global.music = 'https://raw.githubusercontent.com/AhmadAkbarID/media/main/menu.mp3'
-global.ig = '@focabar'
-global.tele = 'miminhydro'
-global.ttowner = '@focabar'
-global.ownername = 'FocaBars'
-global.owner = ['6285187063723'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285187063723'
+global.thumbnail = 'https://files.catbox.moe/mmp46j.jpg'
+global.ig = '@dapaboys_'
+global.tele = 't.me/dafzskibidi'
+global.ttowner = '@ddap15'
+global.ownername = 'dapdir garis keras😝'
+global.owner = ['6283848734632'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6283848734632'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '085187063723' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '085187063723' // KOSONG KAN JIKA TIDAK ADA 
-global.noovo = false // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '085361727445' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '081343938035' // KOSONG KAN JIKA TIDAK ADA 
+global.noovo = '085361727445' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'foca / Ahmad Akbar' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Ahmad Akbar' // KOSONG KAN JIKA TIDAK ADA
-global.anovo = false // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'S****tri' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'D**fa' // KOSONG KAN JIKA TIDAK ADA
+global.anovo = 'S****tri' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Asisten Hydro 🌊"
-global.ownernumber = '6285187063723'
-global.botnumber = '6283867608750'
-global.ownername = 'FocaBars'
-global.ownerNumber = ["6285187063723@s.whatsapp.net"]
+global.botname = "𝔡𝔞𝔭𝔡𝔦𝔯 𝔴𝔥𝔞𝔱𝔰𝔞𝔭𝔭 𝔟𝔬𝔱ッ"
+global.ownernumber = '6283848734632'
+global.botnumber = '6282164962732'
+global.ownername = 'DafzModz'
+global.ownerNumber = ["6283848734632@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
-global.wagc = "https://chat.whatsapp.com/LqCKICVcCgiJcrxttSRci3"
-global.saluran = "https://whatsapp.com/channel/0029VbAYRBf4o7qSa74h2m0t"
+global.wagc = "https://chat.whatsapp.com/J8do8ie8TWe08BDAzJe0qA"
+global.saluran = "https://whatsapp.com/channel/0029Vb7ItNu7YScuVEepN23Z"
 global.themeemoji = '🏞️'
-global.wm = "Asisten Hydro ||| WhatsApps Bots"
-global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
-global.packname = "HYDRO"
-global.author = "\n\n\n\n\nDibuat Oleh Asisten Hydro\nNo hape/wa : 6283867608750"
-global.creator = "6285187063723@s.whatsapp.net"
+global.wm = "© POWERD BY BOT DAPDIR⚡"
+global.botscript = 'Dah gede nyari sc anj🗿🖕' //script link
+global.packname = "DAFZMODZ"
+global.author = "\n\n\n\n\nDibuat Oleh DafzModz\nNo hape/wa : 6283848734632"
+global.creator = "6283848734632@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
-global.domain = 'https://panel.hydroarchon.xyz' // Isi Domain Lu jangan kasih tanda / di akhir link
-global.apikey = 'ptla_rBcXGJhiY4FHkclS6xVVcPk5gu5tGMUTfn6PWhEIsyq' // Isi Apikey Plta Lu
-global.capikey = 'ptlc_dHqgrA1oZZ0n6AA4hiT2uCKGKHpKxU5xjL1bxAJPKDx' // Isi Apikey Pltc Lu
+global.domain = '' // Isi Domain Lu jangan kasih tanda / di akhir link
+global.apikey = '' // Isi Apikey Plta Lu
+global.capikey = '' // Isi Apikey Pltc Lu
 //=========================================================//
 global.apiDigitalOcean = "-"
 //=========================================================//
@@ -62,11 +61,10 @@ global.docker2 = "ghcr.io/cekilpedia/vip:sanzubycekil" //jangan di ubah
 global.eggsnya2 = '15' // id eggs yang dipakai
 global.location2 = '1' // id location
 //===========================//
-global.virtuSimApiKey = 'k6R8Zfw1xGVBdgPvODLW5hNyuS'
+global.virtuSimApiKey = 'k6R8Zfw1xGVBdgPvODLWtcie5hNyuS'
 global.domainotp = "https://claudeotp.com/api"
 global.apikeyotp = "a395f97fe99f4fad0e790d10af518b9a"
 global.eggsnya = '15' // id eggs yang dipakai
-global.nodes = '2'
 global.location3 = '1' // id location
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
@@ -74,24 +72,24 @@ global.tekspushkonv3 = ""
 global.tekspushkonv4 = ""
 //===========================//
 global.mess = {
-   wait: "*_Tunggu Sebentar.. Bot lagi berenang... 🏊_*",
+   wait: "*Permintaanmu sedang diproses 💝*",
    success: "Yay! Bot berhasil 🎉",
-   on: "Yay! Nyala nih! 😝",
-   off: "Ahh! Mati deh.. 😴",
+   on: "*Yay! Nyala nih! 😝*",
+   off: "*Ahh! Mati deh.. 😴*",
    query: {
-       text: "Teksnya mana? Aku kan gabisa baca pikiran kaka 😉",
-       link: "Linknya dongg.. Aku gabisa tanpa link 😖",
+       text: "*Teksnya mana? Aku kan gabisa baca pikiran kaka 😉*",
+       link: "*Linknya dongg.. Aku gabisa tanpa link 😖*",
    },
    error: {
-       fitur: "Whoops! Eror nih.. laporkan ke owner agar diperbaiki 6285187063723 🙏",
+       fitur: "*Whoops!*\n> Eror nih.. laporkan ke owner agar diperbaiki 6283848734632 🙏",
    },
    only: {
-       group: "Eh, Kak! Fitur ini bisanya buat grup nihh 🫂",
-       private: "Eh, Kak! Fitur ini cuman bisa dipake chat pribadi! 🌚",
+       group: "*Eh, Kak! Fitur ini bisanya buat grup nihh 🫂*",
+       private: "*Eh, Kak! Fitur ini cuman bisa dipake chat pribadi! 🌚*",
        owner: "Hanya untuk sang *Raja* 👑",
-       admin: "Fitur ini cuman bisa dipake admin grup yah! 🥳",
-       badmin: "Waduh! Aku butuh jadi admin agar bisa menggunakan fitur ini 🤯",
-       premium: "Kak, ini fitur premium loh! Biar bisa jadi premium beli di 6285187063723 agar bisa menggunakan fitur ini 🤫",
+       admin: "Fitur ini cuman bisa dipake *admin grup* yah! 🥳",
+       badmin: "Waduh! Aku butuh jadi *admin* agar bisa menggunakan fitur ini 🤯",
+       premium: "Kak, ini fitur *premium* loh!\n> Biar bisa jadi premium beli di 62851 agar bisa menggunakan fitur ini 🤫",
    }
 }
 //========================================\\
